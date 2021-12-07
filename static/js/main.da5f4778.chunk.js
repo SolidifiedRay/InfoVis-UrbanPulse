@@ -1,0 +1,2 @@
+(this.webpackJsonpapp=this.webpackJsonpapp||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);var c=t(1),r=t.n(c),s=t(3),a=t.n(s),p=(t(8),t(0));var i=function(){return Object(p.jsx)("div",{className:"App",children:"Urban Pulse"})};a.a.render(Object(p.jsx)(r.a.StrictMode,{children:Object(p.jsx)(i,{})}),document.getElementById("root"))},8:function(e,n,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.da5f4778.chunk.js.map

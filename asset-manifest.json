@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/InfoVis-UrbanPulse/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/InfoVis-UrbanPulse/static/js/main.da5f4778.chunk.js",
+    "main.js.map": "/InfoVis-UrbanPulse/static/js/main.da5f4778.chunk.js.map",
+    "runtime-main.js": "/InfoVis-UrbanPulse/static/js/runtime-main.17adcb02.js",
+    "runtime-main.js.map": "/InfoVis-UrbanPulse/static/js/runtime-main.17adcb02.js.map",
+    "static/js/2.4d46e0c1.chunk.js": "/InfoVis-UrbanPulse/static/js/2.4d46e0c1.chunk.js",
+    "static/js/2.4d46e0c1.chunk.js.map": "/InfoVis-UrbanPulse/static/js/2.4d46e0c1.chunk.js.map",
+    "index.html": "/InfoVis-UrbanPulse/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/InfoVis-UrbanPulse/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.4d46e0c1.chunk.js.LICENSE.txt": "/InfoVis-UrbanPulse/static/js/2.4d46e0c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17adcb02.js",
+    "static/js/2.4d46e0c1.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.da5f4778.chunk.js"
+  ]
+}
